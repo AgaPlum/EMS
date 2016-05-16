@@ -1,0 +1,9 @@
+C:\Users\Śliwka\Desktop\C#\K@ntor\K@ntor\bin\Debug\K@ntor.exe.config
+C:\Users\Śliwka\Desktop\C#\K@ntor\K@ntor\bin\Debug\K@ntor.exe
+C:\Users\Śliwka\Desktop\C#\K@ntor\K@ntor\bin\Debug\K@ntor.pdb
+C:\Users\Śliwka\Desktop\C#\K@ntor\K@ntor\obj\Debug\K@ntor.csprojResolveAssemblyReference.cache
+C:\Users\Śliwka\Desktop\C#\K@ntor\K@ntor\obj\Debug\K_ntor.Form1.resources
+C:\Users\Śliwka\Desktop\C#\K@ntor\K@ntor\obj\Debug\K_ntor.Properties.Resources.resources
+C:\Users\Śliwka\Desktop\C#\K@ntor\K@ntor\obj\Debug\K@ntor.csproj.GenerateResource.Cache
+C:\Users\Śliwka\Desktop\C#\K@ntor\K@ntor\obj\Debug\K@ntor.exe
+C:\Users\Śliwka\Desktop\C#\K@ntor\K@ntor\obj\Debug\K@ntor.pdb
