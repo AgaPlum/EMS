@@ -1,0 +1,31 @@
+US Dollar:USD
+Japanese Yen:JPY
+Bulgarian Lev:BGN
+Czech Korun:CZK    
+Danish Krone:DKK                  
+British Pound:GBP                    
+Hungarian Forint:HUF                  
+Polish Zloty:PLN                  
+Romanian New Leu:RON                  
+Swedish Krona:SEK                  
+Swiss Franc:CHF                  
+Norwegian Krone:NOK                  
+Croatian Kuna:HRK                  
+Russian Ruble:RUB                    
+Turkish Lira:TRY                  
+Australian Dollar:AUD                  
+Brazilian Real:BRL                  
+Canadian Dollar:CAD                  
+Chinese Yuan Renminbi:CNY                  
+Hong Kong Dollar:HKD                  
+Indonesian Rupiah:IDR                      
+Israeli Shakel:ILS                  
+Indian Rupee:INR                    
+South Korean Won:KRW                    
+Mexican Peso:MXN                    
+Malaysian Ringgit:MYR                  
+New Zealand Dollar:NZD                  
+Philippine Peso:PHP                  
+Singapore Dollar:SGD                  
+Thai Baht:THB                  
+South African Rand:ZAR                    
