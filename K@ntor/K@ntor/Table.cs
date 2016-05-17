@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Net;
+using System.Windows.Forms;
 
 namespace K_ntor
 {
@@ -14,12 +15,20 @@ namespace K_ntor
         //Get data from website - it is important to have the current exchange rate
         public string[,] DataDownload(Uri url)
         {
-            string s = wb.DownloadString(url);
-            char[] v = { '{', ',', ':' };
-            string b = s.Replace("}", "").Replace(@"""", "");
-            string[] element = b.Split(v);
-            string[,] tab = Splitting(element.Skip(7).ToArray());
-            return Assign(tab);
+            try
+            {
+                string s = wb.DownloadString(url);
+                char[] v = { '{', ',', ':' };
+                string b = s.Replace("}", "").Replace(@"""", "");
+                string[] element = b.Split(v);
+                string[,] tab = Splitting(element.Skip(7).ToArray());
+                return Assign(tab);
+            }
+            catch 
+            {
+                MessageBox.Show("Please check your internet connection.");
+                return null;
+            }
         }
         //Assign full name to currencies - join tables
         public string[,] Assign(string[,] tab2)
