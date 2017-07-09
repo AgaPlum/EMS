@@ -1,6 +1,0 @@
-c:\users\śliwka\documents\visual studio 2013\Projects\DelegatesTesting\DelegatesTesting\bin\Debug\DelegatesTesting.exe.config
-c:\users\śliwka\documents\visual studio 2013\Projects\DelegatesTesting\DelegatesTesting\bin\Debug\DelegatesTesting.exe
-c:\users\śliwka\documents\visual studio 2013\Projects\DelegatesTesting\DelegatesTesting\bin\Debug\DelegatesTesting.pdb
-c:\users\śliwka\documents\visual studio 2013\Projects\DelegatesTesting\DelegatesTesting\obj\Debug\DelegatesTesting.csprojResolveAssemblyReference.cache
-c:\users\śliwka\documents\visual studio 2013\Projects\DelegatesTesting\DelegatesTesting\obj\Debug\DelegatesTesting.exe
-c:\users\śliwka\documents\visual studio 2013\Projects\DelegatesTesting\DelegatesTesting\obj\Debug\DelegatesTesting.pdb

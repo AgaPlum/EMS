@@ -1,9 +1,0 @@
-C:\Users\Śliwka\Documents\Visual Studio 2013\ProjGit\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
-C:\Users\Śliwka\Documents\Visual Studio 2013\ProjGit\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
-C:\Users\Śliwka\Documents\Visual Studio 2013\ProjGit\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
-C:\Users\Śliwka\Documents\Visual Studio 2013\ProjGit\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
-C:\Users\Śliwka\Documents\Visual Studio 2013\ProjGit\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
-C:\Users\Śliwka\Documents\Visual Studio 2013\ProjGit\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
-C:\Users\Śliwka\Documents\GitHub\SimFibo\Fibonacci\bin\Debug\Fibonacci.exe.config
-C:\Users\Śliwka\Documents\GitHub\SimFibo\Fibonacci\obj\Debug\Fibonacci.exe
-C:\Users\Śliwka\Documents\GitHub\SimFibo\Fibonacci\obj\Debug\Fibonacci.pdb

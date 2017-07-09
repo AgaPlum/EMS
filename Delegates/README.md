@@ -1,2 +1,0 @@
-# Delegates
-Test  Of Delegates
