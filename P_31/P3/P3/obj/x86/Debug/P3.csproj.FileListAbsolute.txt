@@ -1,0 +1,25 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\IB\P3\P3\bin\Debug\P3.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\IB\P3\P3\bin\Debug\P3.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\IB\P3\P3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\IB\P3\P3\obj\x86\Debug\P3.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\IB\P3\P3\obj\x86\Debug\P3.Form2.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\IB\P3\P3\obj\x86\Debug\P3.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\IB\P3\P3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\IB\P3\P3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\IB\P3\P3\obj\x86\Debug\P3.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\IB\P3\P3\obj\x86\Debug\P3.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\IB\P3\P3\obj\x86\Debug\P3.Form3.resources
+D:\Dokumenty\Stare Projekty\Visual Studio 2010\Projects\IB\P3\P3\obj\x86\Debug\P3.exe
+D:\Dokumenty\Stare Projekty\Visual Studio 2010\Projects\IB\P3\P3\obj\x86\Debug\P3.pdb
+E:\Dyplom_inż\Projekt Inżynierki\IB\P3\P3\bin\Debug\P3.exe
+E:\Dyplom_inż\Projekt Inżynierki\IB\P3\P3\bin\Debug\P3.pdb
+E:\Dyplom_inż\Projekt Inżynierki\IB\P3\P3\obj\x86\Debug\P3.csprojResolveAssemblyReference.cache
+E:\Dyplom_inż\Projekt Inżynierki\IB\P3\P3\obj\x86\Debug\P3.Form1.resources
+E:\Dyplom_inż\Projekt Inżynierki\IB\P3\P3\obj\x86\Debug\P3.Form2.resources
+E:\Dyplom_inż\Projekt Inżynierki\IB\P3\P3\obj\x86\Debug\P3.Form3.resources
+E:\Dyplom_inż\Projekt Inżynierki\IB\P3\P3\obj\x86\Debug\P3.Properties.Resources.resources
+E:\Dyplom_inż\Projekt Inżynierki\IB\P3\P3\obj\x86\Debug\P3.csproj.GenerateResource.Cache
+E:\Dyplom_inż\Projekt Inżynierki\IB\P3\P3\obj\x86\Debug\P3.exe
+E:\Dyplom_inż\Projekt Inżynierki\IB\P3\P3\obj\x86\Debug\P3.pdb
+C:\Users\Śliwka\Documents\GitHub\P_31\P3\P3\obj\x86\Debug\P3.exe
+C:\Users\Śliwka\Documents\GitHub\P_31\P3\P3\obj\x86\Debug\P3.pdb

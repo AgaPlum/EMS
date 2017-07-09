@@ -1,0 +1,47 @@
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\Projektinz.exe
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\Projektinz.pdb
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Controls.dll
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Imaging.dll
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Math.dll
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Controls.xml
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Imaging.xml
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Math.xml
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.Form1.resources
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.Properties.Resources.resources
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.exe
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.pdb
+C:\Users\Admin\Desktop\VII\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.Form2.resources
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.exe
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.pdb
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\Projektinz.exe
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\Projektinz.pdb
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Controls.dll
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.dll
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Imaging.dll
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Imaging.Formats.dll
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Math.dll
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Video.dll
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.xml
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Controls.xml
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Imaging.xml
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Imaging.Formats.xml
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Math.xml
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\bin\Debug\AForge.Video.xml
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.csprojResolveAssemblyReference.cache
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.Form1.resources
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.Form2.resources
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.Properties.Resources.resources
+E:\Dyplom_inż\Projekt Inżynierki\Projekt Inżynierki\Pliki z MVS\Projektinz\Projektinz\obj\x86\Debug\Projektinz.csproj.GenerateResource.Cache
